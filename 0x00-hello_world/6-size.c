@@ -1,4 +1,4 @@
-#include <stdio.c>
+#include <stdio.h>
 /**
  * main - A program that prints the sizes of various computer types
  * Return: Always 0 (Success)
